@@ -1,0 +1,4 @@
+#Sat Aug 05 13:07:32 IST 2023
+base.0=E\:\\Darafile\\weather-app-main\\weather-app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
